@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dynamics.servebeer.com/sitemap.xml
+Sitemap: https://dynamics.servebeer.com/sitemap.html
